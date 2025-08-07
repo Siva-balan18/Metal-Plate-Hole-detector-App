@@ -1,4 +1,0 @@
-streamlit
-git+https://github.com/ultralytics/ultralytics.git
-numpy
-pillow
